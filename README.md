@@ -1,2 +1,2 @@
-# code_wars_practice_problems
-Solutions to code war practice problems solved
+# Code Wars Problems
+Solutions to code war practice problems that have been solved plus discussions as to how to make them better.
